@@ -2,7 +2,11 @@
 
 A simple, interactive rock-paper-scissors game built with HTML5, CSS3, and vanilla JavaScript with a help from Claude-AI.
 
-![Rock Paper Scissors Game](<img src="https://github.com/haibeu2901/RockPaperScissorMiniGame/blob/main/image.png" alt="Preview" width="45%"></img>)
+## Preview Screenshot
+
+<div align="center">
+  <img src="https://github.com/haibeu2901/RockPaperScissorMiniGame/blob/main/image.png" alt="Preview" width="45%"></img>
+</div>
 
 ## Features
 
