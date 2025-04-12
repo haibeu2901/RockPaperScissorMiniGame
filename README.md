@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# 👊Rock ✋Paper ✌️Scissors Game
 
 A simple, interactive rock-paper-scissors game built with HTML5, CSS3, and vanilla JavaScript with a help from Claude-AI.
 
